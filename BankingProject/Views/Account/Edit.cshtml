@@ -1,0 +1,42 @@
+﻿@model BankingProject.Models.Account
+
+ @using (Html.BeginForm ("Edit","Account", FormMethod.Post, new {role="form", enctype ="multipart/form-data"})){
+  
+
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h4 class="text-primary">Edit Account</h4>
+            <hr />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="AccountNumber"></label>
+            <input asp-for="AccountNumber" readonly class="form-control" />
+            
+        </div>
+        <div class="mb-3">
+            <label asp-for="AccountName"></label>
+            <input asp-for="AccountName" class="form-control" />
+            <span asp-validation-for="AccountName" class="text-danger"></span>
+        </div>
+        @*<input asp-for="CustomerId" value="@Model.CustomerId"/>*@
+        <div class="mb-3">
+            <label asp-for="accountType"></label>
+            <input asp-for="accountType" class="form-control" />
+            <span asp-validation-for="accountType" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CustomerId">Customer Name</label>
+            <select asp-for="CustomerId" asp-items="ViewBag.CustomerList" property ="disabled" readonly class="form-control">
+                <option disabled selected>--Select Customer--</option>
+            </select>
+            <span asp-validation-for="CustomerId" class="text-warning" />
+        </div>
+        
+        <button type="submit" class="btn btn-primary" style="width:150px">Update</button>
+        <a asp-controller="Account" asp-action="Index" class="btn btn-secondary" style="width:150px">
+            Back to list
+        </a>
+    </div>
+}

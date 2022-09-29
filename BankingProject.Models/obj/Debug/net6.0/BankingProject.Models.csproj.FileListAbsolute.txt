@@ -1,0 +1,12 @@
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.Models\bin\Debug\net6.0\BankingProject.Models.deps.json
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.Models\bin\Debug\net6.0\BankingProject.Models.dll
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.Models\bin\Debug\net6.0\BankingProject.Models.pdb
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.Models\obj\Debug\net6.0\BankingProject.Models.csproj.AssemblyReference.cache
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.Models\obj\Debug\net6.0\BankingProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.Models\obj\Debug\net6.0\BankingProject.Models.AssemblyInfoInputs.cache
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.Models\obj\Debug\net6.0\BankingProject.Models.AssemblyInfo.cs
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.Models\obj\Debug\net6.0\BankingProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.Models\obj\Debug\net6.0\BankingProject.Models.dll
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.Models\obj\Debug\net6.0\refint\BankingProject.Models.dll
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.Models\obj\Debug\net6.0\BankingProject.Models.pdb
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.Models\obj\Debug\net6.0\ref\BankingProject.Models.dll

@@ -1,0 +1,31 @@
+﻿@model BankingProject.Models.Account
+
+ @using (Html.BeginForm ("Delete","Account", FormMethod.Post, new {role="form", enctype ="multipart/form-data"})){
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h4 class="text-primary">Delete Account</h4>
+            <hr />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="AccountNumber"></label>
+            <input asp-for="AccountNumber" name="AccountNumber" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="AccountName"></label>
+            <input asp-for="AccountName" name="AccountName" readonly class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="accountType"></label>
+            <input asp-for="accountType" name="accountType" readonly class="form-control" />
+
+        </div>
+
+        <button type="submit" class="btn btn-dark" style="width:150px">Delete</button>
+        <a asp-controller="Account" asp-action="Index" class="btn btn-secondary" style="width:150px">
+            Back to list
+        </a>
+    </div>
+ }
+

@@ -1,0 +1,17 @@
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\bin\Debug\net6.0\BankingProject.DataAccess.deps.json
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\bin\Debug\net6.0\BankingProject.DataAccess.runtimeconfig.json
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\bin\Debug\net6.0\BankingProject.DataAccess.dll
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\bin\Debug\net6.0\BankingProject.DataAccess.pdb
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\bin\Debug\net6.0\BankingProject.Models.dll
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\bin\Debug\net6.0\BankingProject.Models.pdb
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\obj\Debug\net6.0\BankingProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\obj\Debug\net6.0\BankingProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\obj\Debug\net6.0\BankingProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\obj\Debug\net6.0\BankingProject.DataAccess.AssemblyInfo.cs
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\obj\Debug\net6.0\BankingProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\obj\Debug\net6.0\BankingProject.DataAccess.csproj.CopyComplete
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\obj\Debug\net6.0\BankingProject.DataAccess.dll
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\obj\Debug\net6.0\refint\BankingProject.DataAccess.dll
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\obj\Debug\net6.0\BankingProject.DataAccess.pdb
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\obj\Debug\net6.0\BankingProject.DataAccess.genruntimeconfig.cache
+C:\Users\Love Odegor\Desktop\cSharp\BankingProject\BankingProject.DataAccess\obj\Debug\net6.0\ref\BankingProject.DataAccess.dll

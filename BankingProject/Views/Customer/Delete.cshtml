@@ -1,0 +1,54 @@
+﻿@model Customer
+
+<form method="post" asp-action="Delete">
+    <input asp-for="CustomerId" hidden/>
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h4 class="text-primary">Delete Customer</h4>
+            <hr />
+        </div>
+        <div class="mb-3">
+            <label asp-for="CustomerName"></label>
+            <input asp-for="CustomerName" disabled class="form-control" />
+  
+        </div>
+        <div class="mb-3">
+            <label asp-for="EmailAddress"></label>
+            <input asp-for="EmailAddress" disabled class="form-control" />
+            
+        </div>
+        <div class="mb-3">
+            <label asp-for="Address"></label>
+            <input asp-for="Address" disabled class="form-control" />
+            
+        </div>
+        <div class="mb-3">
+            <label asp-for="Landmark"></label>
+            <input asp-for="Landmark" disabled class="form-control" />
+            
+        </div>
+        <div class="mb-3">
+            <label asp-for="City"></label>
+            <input asp-for="City" disabled class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Country"></label>
+            <input asp-for="Country" disabled class="form-control" />
+           
+        </div>
+        <div class="mb-3">
+            <label asp-for="Mobile"></label>
+            <input asp-for="Mobile" disabled class="form-control" />
+            
+        </div>
+        <button type="submit" class="btn btn-dark" style="width:150px">Delete</button>
+        <a asp-controller="Customer" asp-action="Index  " class="btn btn-secondary" style="width:150px">
+            Back to list
+        </a>
+    </div>
+</form>
+
+
+
+
